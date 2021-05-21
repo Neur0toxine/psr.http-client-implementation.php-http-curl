@@ -1,0 +1,16 @@
+{
+    "name": "neur0toxine/psr.http-client-implementation.php-http-curl",
+    "description": "Satisfy \"psr/http-client-implementation\" with packages provided by user, or fallback to \"php-http-curl\".",
+    "type": "metapackage",
+    "license": "MIT",
+    "keywords": [
+        "composer",
+        "fallback",
+        "default",
+        "psr",
+        "http-client-implementation"
+    ],
+    "require": {
+        "php-http/curl-client": "*"
+    }
+}
