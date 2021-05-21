@@ -10,7 +10,5 @@
         "psr",
         "http-client-implementation"
     ],
-    "require": {
-        "php-http/curl-client": "*"
-    }
+    "require": []
 }
